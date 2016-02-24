@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Driven Development</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="lat_lng">Lat Lng</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temperature</string>
+</resources>
